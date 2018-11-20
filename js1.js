@@ -7,5 +7,5 @@ async function MultiplyAfterTwoSec1(x, y) => {
             return resolve(1 + 1);
         }, 0);
         //  return reject('SOme Error Occurs');
-    });
+    }); //
 };
